@@ -1,0 +1,16 @@
+{
+  "name": "Copy of ZenMind - Daily Guided Meditation",
+  "description": "A premium meditation app designed for daily spiritual growth, featuring AI-generated guided sessions, progress tracking, and personalized mindfulness journeys.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "android": {
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

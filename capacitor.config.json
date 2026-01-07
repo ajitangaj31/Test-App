@@ -1,0 +1,15 @@
+
+{
+  "appId": "com.zenmind.app",
+  "appName": "ZenMind",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "backgroundColor": "#Fafaf9"
+  }
+}
